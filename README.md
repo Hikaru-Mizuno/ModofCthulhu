@@ -1,2 +1,2 @@
-# ModofCthulhu
-Mod for Minecraft.  The theme is Call of Ctulhu, but not AbyssCraft
+# test
+this is a test
